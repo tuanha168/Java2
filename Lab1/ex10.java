@@ -25,7 +25,9 @@ public class ArrayListSortExample {
 
         // Following is an even more concise solution
         names.sort(Comparator.naturalOrder());
-
         System.out.println("Sorted Names : " + names);
+        names.sort(Comparator.reverseOrder());
+        System.out.println("Reversed Names : " + names);
+
     }
 }
