@@ -1,6 +1,5 @@
 package Lab1;
 
-
 public class Person {
     private String name;
     private Integer age;
@@ -28,9 +27,6 @@ public class Person {
 
     @Override
     public String toString() {
-        return "{" +
-                "name='" + name + '\'' +
-                ", age=" + age +
-                '}';
+        return "{" + "name='" + name + '\'' + ", age=" + age + '}';
     }
 }

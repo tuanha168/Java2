@@ -1,8 +1,10 @@
+package Lab1;
+
 import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
 
-public class ArrayListIteratorRemoveExample {
+public class ex6 {
     public static void main(String[] args) {
         List<Integer> numbers = new ArrayList<>();
         numbers.add(13);
@@ -13,7 +15,7 @@ public class ArrayListIteratorRemoveExample {
         Iterator<Integer> numbersIterator = numbers.iterator();
         while (numbersIterator.hasNext()) {
             Integer num = numbersIterator.next();
-            if(num % 2 != 0) {
+            if (num % 2 != 0) {
                 numbersIterator.remove();
             }
         }

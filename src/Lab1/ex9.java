@@ -1,8 +1,10 @@
+package Lab1;
+
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
-public class ArrayListCollectionsSortExample {
+public class ex9 {
     public static void main(String[] args) {
         List<Integer> numbers = new ArrayList<>();
         numbers.add(13);

@@ -1,8 +1,9 @@
 package Lab1;
+
 import java.util.ArrayList;
 import java.util.List;
 
-public class ArrayListUserDefinedObjectExample {
+public class ex8 {
     public static void main(String[] args) {
         List<User> users = new ArrayList<>();
         users.add(new User("Rajeev", 25));

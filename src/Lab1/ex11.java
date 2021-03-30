@@ -1,11 +1,11 @@
 package Lab1;
+
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Comparator;
 import java.util.List;
 
-
-public class ArrayListObjectSortExample {
+public class ex11 {
     public static void main(String[] args) {
         List<Person> people = new ArrayList<>();
         people.add(new Person("Sachin", 47));
@@ -25,7 +25,8 @@ public class ArrayListObjectSortExample {
 
         System.out.println("Sorted Person List by Age : " + people);
 
-        // You can also sort using Collections.sort() method by passing the custom Comparator
+        // You can also sort using Collections.sort() method by passing the custom
+        // Comparator
         Collections.sort(people, Comparator.comparing(Person::getName));
         System.out.println("Sorted Person List by Name : " + people);
     }

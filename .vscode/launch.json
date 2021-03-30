@@ -1,0 +1,105 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "Assignment1.Main",
+            "projectName": "Java2_51907252"
+        },
+        {
+            "type": "java",
+            "name": "Launch CreateArrayListExample",
+            "request": "launch",
+            "mainClass": "Lab1.CreateArrayListExample",
+            "projectName": "Java2_51907252"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex10",
+            "request": "launch",
+            "mainClass": "Lab1.ex10",
+            "projectName": "Java2_51907252"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex11",
+            "request": "launch",
+            "mainClass": "Lab1.ex11",
+            "projectName": "Java2_51907252"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex3",
+            "request": "launch",
+            "mainClass": "Lab1.ex3",
+            "projectName": "Java2_51907252"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex4",
+            "request": "launch",
+            "mainClass": "Lab1.ex4",
+            "projectName": "Java2_51907252"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex5",
+            "request": "launch",
+            "mainClass": "Lab1.ex5",
+            "projectName": "Java2_51907252"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex6",
+            "request": "launch",
+            "mainClass": "Lab1.ex6",
+            "projectName": "Java2_51907252"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex7",
+            "request": "launch",
+            "mainClass": "Lab1.ex7",
+            "projectName": "Java2_51907252"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex8",
+            "request": "launch",
+            "mainClass": "Lab1.ex8",
+            "projectName": "Java2_51907252"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex9",
+            "request": "launch",
+            "mainClass": "Lab1.ex9",
+            "projectName": "Java2_51907252"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex1",
+            "request": "launch",
+            "mainClass": "Lab2.ex1",
+            "projectName": "Java2_51907252"
+        },
+        {
+            "type": "java",
+            "name": "Launch ex1(1)",
+            "request": "launch",
+            "mainClass": "Lab3.ex1",
+            "projectName": "Java2_51907252"
+        }
+    ]
+}
