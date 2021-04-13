@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch ReadCharacterStream",
+            "request": "launch",
+            "mainClass": "Assignment5.ReadCharacterStream",
+            "projectName": "Java2_51907252"
+        },
+        {
+            "type": "java",
             "name": "Launch Current File",
             "request": "launch",
             "mainClass": "${file}"

@@ -1,2 +1,5 @@
 Fundamentals of Java - CPINTL.pdf
 *.class
+.vscode/launch.json
+.vscode/settings.json
+SQL/1.sql
