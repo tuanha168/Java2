@@ -1,10 +1,10 @@
-package com.company.services;
-
-import com.company.entities.Student;
+package Assignment3.services;
 
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
+
+import Assignment3.entities.Student;
 
 public class StudentManagement {
     private List<Student> students = null;

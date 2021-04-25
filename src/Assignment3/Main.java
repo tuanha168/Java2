@@ -1,6 +1,6 @@
-package com.company;
+package Assignment3;
 
-import com.company.services.StudentManagement;
+import Assignment3.services.StudentManagement;
 
 public class Main {
 

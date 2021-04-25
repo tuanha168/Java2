@@ -1,4 +1,4 @@
-package Assignment5;
+package Session5;
 
 import java.io.FileOutputStream;
 import java.io.IOException;
