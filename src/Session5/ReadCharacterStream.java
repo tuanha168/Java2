@@ -1,4 +1,4 @@
-package Assignment5;
+package Session5;
 
 import java.io.FileReader;
 import java.io.FileWriter;

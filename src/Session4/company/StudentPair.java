@@ -1,4 +1,4 @@
-package com.company;
+package Session4.company;
 
 public class StudentPair <Name,RollNumber>{
     private  Name name;

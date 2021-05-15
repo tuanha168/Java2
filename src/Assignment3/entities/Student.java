@@ -1,4 +1,4 @@
-package com.company.entities;
+package Assignment3.entities;
 
 public class Student {
     private String name;
